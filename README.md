@@ -6,7 +6,7 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 Here we try to analyze which factors were more likely to contribute to the death of the passengers and classify who is more likely to survive depending on the features.
 
 # Goal 
-To perform explanatory data analysis and find out the correlations between between features and create a model to find he unknown dependent variables/features and evaluate the model.
+To perform exploratory data analysis and find out the correlations between between features and create a model to find he unknown dependent variables/features and evaluate the model.
 
 # Dependencies 
 •	Pandas
